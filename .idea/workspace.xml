@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b73f586-d845-4823-9f9c-b564334ed385" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task04_Calc/T04_Calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task04_Calc/task04" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task01_Configuring_an_Environment/task" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task01_Configuring_an_Environment/task" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task02_Hello_world/T02_HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task02_Hello_world/T02_HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task03_First_Name_Last_Name/T03_FirstNameLastName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task03_First_Name_Last_Name/T03_FirstNameLastName.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,21 +29,56 @@
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task02_Hello_world/T02_HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task03_First_Name_Last_Name/T03_FirstNameLastName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task03_First_Name_Last_Name/T03_FirstNameLastName.java">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="34">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-17.0.2/lib/src.zip!/java.base/java/lang/Double.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="649" column="25" selection-start-line="649" selection-start-column="25" selection-end-line="649" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/task04">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +88,9 @@
       <list>
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task02_Hello_world/T02_HelloWorld.java" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task03_First_Name_Last_Name/T03_FirstNameLastName.java" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/task04" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/Operation.java" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java" />
       </list>
     </option>
   </component>
@@ -63,7 +98,9 @@
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -94,13 +131,6 @@
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task01_Configuring_an_Environment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task02_Hello_world" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -113,6 +143,13 @@
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task04_Calc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NIX" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -135,6 +172,36 @@
               <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
               <item name="task03_First_Name_Last_Name" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 17 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 17 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 17 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 17 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T02_HelloWorld">
+  <component name="RunManager" selected="Application.T04_Calc">
     <configuration name="T02_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task02_Hello_world.T02_HelloWorld" />
       <module name="01.NIX-Beginner-Level-1" />
@@ -190,8 +257,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T04_Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task04_Calc.T04_Calc" />
+      <module name="01.NIX-Beginner-Level-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task04_Calc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T04_Calc" />
         <item itemvalue="Application.T02_HelloWorld" />
         <item itemvalue="Application.T03_FirstNameLastName" />
       </list>
@@ -210,23 +291,33 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972972" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.17165005" />
+      <window_info anchor="bottom" id="Terminal" weight="0.1711111" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -261,20 +352,48 @@
     <entry file="file://$PROJECT_DIR$/NIX.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task02_Hello_world/T02_HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task03_First_Name_Last_Name/T03_FirstNameLastName.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task03_First_Name_Last_Name/T03_FirstNameLastName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="363">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/task04">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-17.0.2/lib/src.zip!/java.base/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="649" column="25" selection-start-line="649" selection-start-column="25" selection-end-line="649" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task02_Hello_world/T02_HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
