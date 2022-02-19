@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0b73f586-d845-4823-9f9c-b564334ed385" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task" beforeDir="false" afterPath="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task05_Array/task" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NIX.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task02_Hello_world/T02_HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="495">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
@@ -53,13 +50,40 @@
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/T05_Array.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/task06">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="8" selection-start-line="3" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-17.0.2/lib/src.zip!/java.base/java/lang/constant/AsTypeMethodHandleDesc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task05">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
               <caret line="2" column="19" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
@@ -108,6 +132,8 @@
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/T05_Array.java" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/task05" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java" />
       </list>
     </option>
   </component>
@@ -148,7 +174,7 @@
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task02_Hello_world" type="462c0819:PsiDirectoryNode" />
+              <item name="task03_First_Name_Last_Name" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -160,28 +186,16 @@
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task05_Array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="task03_First_Name_Last_Name" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task06_Fahrenheit_to_Celsius" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -212,6 +226,15 @@
               <item name="java.base" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 17 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.base" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -293,9 +316,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T06_FahrenheitToCelsius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task06_Fahrenheit_to_Celsius.T06_FahrenheitToCelsius" />
+      <module name="01.NIX-Beginner-Level-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task06_Fahrenheit_to_Celsius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.T05_Array" />
+        <item itemvalue="Application.T06_FahrenheitToCelsius" />
         <item itemvalue="Application.T04_Calc" />
         <item itemvalue="Application.T02_HelloWorld" />
         <item itemvalue="Application.T03_FirstNameLastName" />
@@ -325,15 +362,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="7" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.1711111" />
@@ -341,7 +377,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -421,24 +457,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-17.0.2/lib/src.zip!/java.base/java/lang/constant/AsTypeMethodHandleDesc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="495">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task">
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task05">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="2" column="19" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/task06">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="8" selection-start-line="3" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/T05_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
         </state>
       </provider>
     </entry>
