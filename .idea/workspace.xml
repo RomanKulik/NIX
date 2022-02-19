@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b73f586-d845-4823-9f9c-b564334ed385" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task04_Calc/T04_Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task04_Calc/task04" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task03_First_Name_Last_Name/T03_FirstNameLastName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task03_First_Name_Last_Name/T03_FirstNameLastName.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +40,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="177">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/T05_Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="19" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -75,8 +90,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -91,10 +106,12 @@
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/task04" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/Operation.java" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/T05_Array.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -132,13 +149,6 @@
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task02_Hello_world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task03_First_Name_Last_Name" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -230,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T04_Calc">
+  <component name="RunManager" selected="Application.T05_Array">
     <configuration name="T02_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task02_Hello_world.T02_HelloWorld" />
       <module name="01.NIX-Beginner-Level-1" />
@@ -270,8 +280,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T05_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task05_Array.T05_Array" />
+      <module name="01.NIX-Beginner-Level-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task05_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T05_Array" />
         <item itemvalue="Application.T04_Calc" />
         <item itemvalue="Application.T02_HelloWorld" />
         <item itemvalue="Application.T03_FirstNameLastName" />
@@ -301,7 +325,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1102" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -390,10 +414,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/T04_Calc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="177">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/task">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="19" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array/T05_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
         </state>
       </provider>
     </entry>
