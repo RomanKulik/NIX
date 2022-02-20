@@ -12,16 +12,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task07_Sum_Numbers_of_Integer/T07_SumNumbersOfInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
+            <state relative-caret-position="1155">
               <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/task08">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="62" selection-start-column="62" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -33,6 +68,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,6 +89,9 @@
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task07_Sum_Numbers_of_Integer/task07" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task07_Sum_Numbers_of_Integer/T07_SumNumbersOfInteger.java" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/task08" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTable.java" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java" />
       </list>
     </option>
   </component>
@@ -68,8 +107,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +140,13 @@
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task07_Sum_Numbers_of_Integer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task08_Multiplication_Table" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -152,6 +198,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/01.NIX-Beginner-Level-1_" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="task08_Multiplication_Table" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\User\Dev\GitHub\GitProjects\NIX\01.NIX-Beginner-Level-1_" />
     </key>
@@ -168,33 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T07_SumNumbersOfInteger">
-    <configuration name="T02_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task02_Hello_world.T02_HelloWorld" />
-      <module name="01.NIX-Beginner-Level-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task02_Hello_world.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T04_Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task04_Calc.T04_Calc" />
-      <module name="01.NIX-Beginner-Level-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task04_Calc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T08_MultiplicationTableMod">
     <configuration name="T05_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task05_Array.T05_Array" />
       <module name="01.NIX-Beginner-Level-1" />
@@ -234,13 +257,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T08_MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task08_Multiplication_Table.T08_MultiplicationTable" />
+      <module name="01.NIX-Beginner-Level-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task08_Multiplication_Table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T08_MultiplicationTableMod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task08_Multiplication_Table.T08_MultiplicationTableMod" />
+      <module name="01.NIX-Beginner-Level-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task08_Multiplication_Table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T08_MultiplicationTableMod" />
+        <item itemvalue="Application.T08_MultiplicationTable" />
         <item itemvalue="Application.T07_SumNumbersOfInteger" />
         <item itemvalue="Application.T05_Array" />
         <item itemvalue="Application.T06_FahrenheitToCelsius" />
-        <item itemvalue="Application.T04_Calc" />
-        <item itemvalue="Application.T02_HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -268,59 +317,44 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.1711111" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12444445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1711111" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1_/01.NIX-Beginner-Level-1.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1_/src/task03_First_Name_Last_Name/T03_FirstNameLastName.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1_/NIX.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1_/src/task02_Hello_world/T02_HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1_/01.NIX-Beginner-Level-1.iml" />
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1_/src/task03_First_Name_Last_Name/T03_FirstNameLastName.java" />
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1_/NIX.iml" />
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1_/src/task02_Hello_world/T02_HelloWorld.java" />
     <entry file="file://$PROJECT_DIR$/NIX.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task03_First_Name_Last_Name/T03_FirstNameLastName.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task03_First_Name_Last_Name/T03_FirstNameLastName.class" />
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task03_First_Name_Last_Name/T03_FirstNameLastName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -335,13 +369,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task04_Calc/Operation.java" />
     <entry file="jar://C:/Program Files/Java/jdk-17.0.2/lib/src.zip!/java.base/java/lang/Double.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -356,13 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task05_Array.java" />
     <entry file="jar://C:/Program Files/Java/jdk-17.0.2/lib/src.zip!/java.base/java/lang/constant/AsTypeMethodHandleDesc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -381,13 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="4" column="8" selection-start-line="3" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -432,8 +447,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task07_Sum_Numbers_of_Integer/T07_SumNumbersOfInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="1155">
           <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/task08">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
