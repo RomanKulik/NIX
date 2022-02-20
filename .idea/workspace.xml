@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/T09_FibonacciNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -74,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/task09">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="5" column="38" lean-forward="true" selection-end-line="5" selection-end-column="38" />
+              <caret line="5" column="38" selection-end-line="5" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -124,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -159,6 +159,13 @@
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task03_First_Name_Last_Name" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NIX" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -173,6 +180,38 @@
               <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+              <item name="task01_Configuring_an_Environment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+              <item name="task02_Hello_world" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+              <item name="task03_First_Name_Last_Name" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
+              <item name="task04_Calc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -502,14 +541,14 @@
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/task09">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="5" column="38" lean-forward="true" selection-end-line="5" selection-end-column="38" />
+          <caret line="5" column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/T09_FibonacciNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
