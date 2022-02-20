@@ -16,11 +16,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task15_Array_Reverse/T15_ArrayReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="771">
-              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="693">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task16_Find_Duplicates/T16_FindDuplicates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task16_Find_Duplicates/task16">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -81,7 +102,9 @@
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task14_Min_Max_at_Array/task14" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task14_Min_Max_at_Array/T14_MinMaxAtArray.java" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task15_Array_Reverse/task15" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task16_Find_Duplicates/task16" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task15_Array_Reverse/T15_ArrayReverse.java" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task16_Find_Duplicates/T16_FindDuplicates.java" />
       </list>
     </option>
   </component>
@@ -122,14 +145,7 @@
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task13_Average_Value_in_Arr_of_Positive_Numbers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task15_Array_Reverse" type="462c0819:PsiDirectoryNode" />
+              <item name="task16_Find_Duplicates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -230,20 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T15_ArrayReverse">
-    <configuration name="T12_ArraySortAscending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task12_Array_Sort_Ascending.T12_ArraySortAscending" />
-      <module name="01.NIX-Beginner-Level-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task12_Array_Sort_Ascending.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.T16_FindDuplicates">
     <configuration name="T13_AvarValInArrOfPosNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task13_Average_Value_in_Arr_of_Positive_Numbers.T13_AvarValInArrOfPosNum" />
       <module name="01.NIX-Beginner-Level-1" />
@@ -296,13 +299,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T16_FindDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task16_Find_Duplicates.T16_FindDuplicates" />
+      <module name="01.NIX-Beginner-Level-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task16_Find_Duplicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T16_FindDuplicates" />
         <item itemvalue="Application.T15_ArrayReverse" />
         <item itemvalue="Application.T14_MinMaxAtArray" />
         <item itemvalue="Application.T13_AverValInArrOfPosNum" />
         <item itemvalue="Application.T13_AvarValInArrOfPosNum" />
-        <item itemvalue="Application.T12_ArraySortAscending" />
       </list>
     </recent_temporary>
   </component>
@@ -658,10 +674,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task16_Find_Duplicates/task16">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task15_Array_Reverse/T15_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="693">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task16_Find_Duplicates/T16_FindDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
