@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b73f586-d845-4823-9f9c-b564334ed385" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b73f586-d845-4823-9f9c-b564334ed385" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTable.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -38,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -52,11 +50,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/T09_FibonacciNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-483">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/task09">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="38" lean-forward="true" selection-end-line="5" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -67,8 +83,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -92,6 +108,8 @@
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/task08" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTable.java" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/task09" />
+        <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/T09_FibonacciNumbers.java" />
       </list>
     </option>
   </component>
@@ -132,21 +150,7 @@
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task06_Fahrenheit_to_Celsius" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task07_Sum_Numbers_of_Integer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task08_Multiplication_Table" type="462c0819:PsiDirectoryNode" />
+              <item name="task09_Fibonacci_Numbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -217,26 +221,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T08_MultiplicationTableMod">
+  <component name="RunManager" selected="Application.T09_FibonacciNumbers">
     <configuration name="T05_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task05_Array.T05_Array" />
       <module name="01.NIX-Beginner-Level-1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task05_Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T06_FahrenheitToCelsius" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task06_Fahrenheit_to_Celsius.T06_FahrenheitToCelsius" />
-      <module name="01.NIX-Beginner-Level-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task06_Fahrenheit_to_Celsius.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,13 +274,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T09_FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task09_Fibonacci_Numbers.T09_FibonacciNumbers" />
+      <module name="01.NIX-Beginner-Level-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task09_Fibonacci_Numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T09_FibonacciNumbers" />
         <item itemvalue="Application.T08_MultiplicationTableMod" />
         <item itemvalue="Application.T08_MultiplicationTable" />
         <item itemvalue="Application.T07_SumNumbersOfInteger" />
         <item itemvalue="Application.T05_Array" />
-        <item itemvalue="Application.T06_FahrenheitToCelsius" />
       </list>
     </recent_temporary>
   </component>
@@ -317,8 +321,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -327,7 +332,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12444445" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39333335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,24 +457,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/task08">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="62" selection-start-column="62" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task06_Fahrenheit_to_Celsius/T06_FahrenheitToCelsius.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -477,6 +468,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/task08">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/task09">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="38" lean-forward="true" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/T09_FibonacciNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
