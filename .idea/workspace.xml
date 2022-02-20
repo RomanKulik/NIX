@@ -32,11 +32,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
               <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task02_Hello_world/T02_HelloWorld.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#298#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,16 +159,20 @@
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task08_Multiplication_Table" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
               <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NIX" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task09_Fibonacci_Numbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -327,7 +342,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -502,6 +517,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task02_Hello_world/T02_HelloWorld.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#298#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
