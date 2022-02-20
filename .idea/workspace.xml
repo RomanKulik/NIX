@@ -41,12 +41,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task02_Hello_world/T02_HelloWorld.class">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
                 <element signature="e#0#298#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task05_Array/task05">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task05_Array/T05_Array.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#511#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,6 +141,7 @@
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task08_Multiplication_Table/T08_MultiplicationTableMod.java" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/task09" />
         <option value="$PROJECT_DIR$/01.NIX-Beginner-Level-1/src/task09_Fibonacci_Numbers/T09_FibonacciNumbers.java" />
+        <option value="$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task05_Array/task05" />
       </list>
     </option>
   </component>
@@ -187,31 +208,7 @@
               <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="production" type="462c0819:PsiDirectoryNode" />
               <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="task01_Configuring_an_Environment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="task02_Hello_world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="task03_First_Name_Last_Name" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NIX" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="01.NIX-Beginner-Level-1" type="462c0819:PsiDirectoryNode" />
-              <item name="task04_Calc" type="462c0819:PsiDirectoryNode" />
+              <item name="task05_Array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NIX" type="b2602c69:ProjectViewProjectNode" />
@@ -564,6 +561,22 @@
         <state>
           <folding>
             <element signature="e#0#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task05_Array/task05">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/01.NIX-Beginner-Level-1/task05_Array/T05_Array.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#511#0" expanded="true" />
           </folding>
         </state>
       </provider>
